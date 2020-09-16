@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/PotatoDevices/device_oneplus_sdm845-common/blob/dstaging/prebuilt-lights/android.hardware.light%402.0-service
+HostUrl=https://raw.githubusercontent.com/PotatoDevices/device_oneplus_sdm845-common/dstaging/prebuilt-lights/android.hardware.light%402.0-service
